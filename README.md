@@ -1,6 +1,6 @@
 # HexConverter
 
-![hex converter](/images/screenshot.jpg =200x100 "HexConverter")  
+![](/images/screenshot.jpg =200x100)  
 
 This utilitiy listens for command-C's on a Mac keyboard, and when triggered checks the clipboard
 for strings beginning with the **0x** hexadecimal prefix, converting any hex codes
