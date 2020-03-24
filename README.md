@@ -1,11 +1,11 @@
 # HexConverter
 
-![hex converter](/images/screenshot.jpg "HexConverter")  
+![hex converter](/images/screenshot.jpg =200x100 "HexConverter")  
 
 This utilitiy listens for command-C's on a Mac keyboard, and when triggered checks the clipboard
 for strings beginning with the **0x** hexadecimal prefix, converting any hex codes
-it encounters to decimal and binary. The result is presented in a simple dialog box
-(see image below). The tool will convert as many hex codes as it identifies on the screen.
+it encounters to decimal and binary. The result is presented in a simple dialog box. 
+The tool will convert as many hex codes as it identifies on the screen.
 Note that the script does NOT listen to mouse actions, so will not pick up changes
 to the clipboard via the right-click option. 
 
